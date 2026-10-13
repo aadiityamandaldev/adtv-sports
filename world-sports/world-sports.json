@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-13T15:43:52.756840",
+  "timestamp": "2026-10-13T15:48:56.246077",
   "total_matches": 28,
   "live_count": 3,
   "upcoming_count": 25,
@@ -16,7 +16,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://d34080pnh6e62j.cloudfront.net/images/channels/mobile_large/17914675091020x576.jpg",
       "league": "Test Series 2026",
-      "viewers": "264",
+      "viewers": "265",
       "viewers_type": "Watching",
       "date": null,
       "time": null,
@@ -31,7 +31,7 @@
         "https://devm3u.netlify.app/stream/devm3u-tsports/playlist.m3u8",
         "https://live.talkoraai.com/match/seg?t=scmVXfbHlYwhMwKaPtCHEZTiF3simYpazJWSckMvRidx8V16N3FdcHI61DtzOjGYQI6_DDUf3P9L_VVTaTuj9SlBT3f6ujp_iUYYqwPC0Pc_p2hrohm6m8KhfLQOp-xFwbO0X3JVNZr1nXlD4QdrjkVx8W6gp6FGjnWZqs2Lcx8DBf2ZtdMh2CyZ9DWCN0FwoZ3IcFI49yVKEJZBninPKgvsPjy-slVdE2VRnY-g5NWNU86hvf0j3o2LQXkgbsbsEuBWa4xG0yEB5nKmQZaBC9h_Eke0B79KWHtL"
       ],
-      "last_updated": "2026-10-13T15:39:35.567962"
+      "last_updated": "2026-10-13T15:44:37.153366"
     },
     {
       "match_id": "1100",
@@ -44,7 +44,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://images.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
       "league": "Australia tour of South Africa",
-      "viewers": "892",
+      "viewers": "893",
       "viewers_type": "Watching",
       "date": null,
       "time": null,
@@ -59,7 +59,7 @@
         "https://live.talkoraai.com/match/seg?t=2gDjrXt0GtXKZ0Owt-JS0aBPfHrw5V1pBdG3BkjK1RjHWXOHSfctt9U7lvKe6EUk6ri2BHz5-5AKGr5P_AKuLhxQ2xXwb3XdENhKUDqFuTjEyznzK-hlXFuEJVLTbJX1BrhLwdCG9BJ66Z8pWtyam7zyPEzx_IXJQnlm7z61XoR2njq0P9t2vUlJjgeylDqcXZsTC-Wnohk-40sqF_d_HlSXgmmw5nbk2T58hkofzcQNnim3bB6Bj9bs2MfYYczDEaskiucIfIlBPbOfvqUFa1bWigoyiPeZeg8-bOKPLQ",
         "https://fawa.duckdns.org/api/proxy?url=http%3A%2F%2F193.47.62.50%2Fhls%2FHHHHRX.m3u8&headers=%7B%22Referer%22%3A%22http%3A%2F%2Fwww.fawanews.sc%2F%22%7D"
       ],
-      "last_updated": "2026-10-13T15:39:36.102833"
+      "last_updated": "2026-10-13T15:44:38.592033"
     },
     {
       "match_id": "1200",
@@ -72,7 +72,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://images.fancode.com/skillup-uploads/cms-media/4249231_53069_IAC_WIC_FC-Web_1790764441502.png",
       "league": "World Championship of Legends, 2026",
-      "viewers": "24",
+      "viewers": "25",
       "viewers_type": "Watching",
       "date": null,
       "time": null,
@@ -84,7 +84,7 @@
       "server_urls": [
         "https://tvsen7.aynascope.net/ssport2hd/tracks-v1a1/mono.ts.m3u8"
       ],
-      "last_updated": "2026-10-13T15:39:36.556581"
+      "last_updated": "2026-10-13T15:44:38.944629"
     },
     {
       "match_id": "1201",
@@ -107,7 +107,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.029294"
+      "last_updated": "2026-10-13T15:44:40.066590"
     },
     {
       "match_id": "1202",
@@ -130,7 +130,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.029989"
+      "last_updated": "2026-10-13T15:44:40.067217"
     },
     {
       "match_id": "1250",
@@ -153,7 +153,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.030627"
+      "last_updated": "2026-10-13T15:44:40.067832"
     },
     {
       "match_id": "1251",
@@ -166,7 +166,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://images.fancode.com/skillup-uploads/cms-media/4247654_53004_ESL_ATM_FC-Web.png",
       "league": "LALIGA 2026-27",
-      "viewers": "9",
+      "viewers": "10",
       "viewers_type": "Waiting",
       "date": null,
       "time": null,
@@ -176,7 +176,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.031246"
+      "last_updated": "2026-10-13T15:44:40.068464"
     },
     {
       "match_id": "1252",
@@ -199,7 +199,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.031863"
+      "last_updated": "2026-10-13T15:44:40.069039"
     },
     {
       "match_id": "1253",
@@ -212,7 +212,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://images.fancode.com/skillup-uploads/cms-media/4247656_53004_RB_BAR_FC-Web.png",
       "league": "LALIGA 2026-27",
-      "viewers": "11",
+      "viewers": "12",
       "viewers_type": "Waiting",
       "date": null,
       "time": null,
@@ -222,7 +222,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.032454"
+      "last_updated": "2026-10-13T15:44:40.069749"
     },
     {
       "match_id": "1254",
@@ -245,7 +245,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.033105"
+      "last_updated": "2026-10-13T15:44:40.070378"
     },
     {
       "match_id": "1101",
@@ -268,7 +268,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.033719"
+      "last_updated": "2026-10-13T15:44:40.071020"
     },
     {
       "match_id": "1255",
@@ -291,7 +291,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.034310"
+      "last_updated": "2026-10-13T15:44:40.071641"
     },
     {
       "match_id": "1256",
@@ -314,7 +314,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.034930"
+      "last_updated": "2026-10-13T15:44:40.072269"
     },
     {
       "match_id": "1257",
@@ -337,7 +337,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.035529"
+      "last_updated": "2026-10-13T15:44:40.072953"
     },
     {
       "match_id": "1258",
@@ -360,7 +360,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.036127"
+      "last_updated": "2026-10-13T15:44:40.073546"
     },
     {
       "match_id": "1259",
@@ -383,7 +383,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.036768"
+      "last_updated": "2026-10-13T15:44:40.074120"
     },
     {
       "match_id": "1260",
@@ -406,7 +406,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.037364"
+      "last_updated": "2026-10-13T15:44:40.074708"
     },
     {
       "match_id": "1261",
@@ -429,7 +429,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.037977"
+      "last_updated": "2026-10-13T15:44:40.075275"
     },
     {
       "match_id": "1262",
@@ -452,7 +452,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.038588"
+      "last_updated": "2026-10-13T15:44:40.075863"
     },
     {
       "match_id": "1263",
@@ -475,7 +475,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.039188"
+      "last_updated": "2026-10-13T15:44:40.076449"
     },
     {
       "match_id": "1264",
@@ -498,7 +498,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.039793"
+      "last_updated": "2026-10-13T15:44:40.077026"
     },
     {
       "match_id": "1265",
@@ -521,7 +521,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.040371"
+      "last_updated": "2026-10-13T15:44:40.077614"
     },
     {
       "match_id": "1266",
@@ -544,7 +544,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.041008"
+      "last_updated": "2026-10-13T15:44:40.078183"
     },
     {
       "match_id": "1267",
@@ -557,7 +557,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://images.fancode.com/skillup-uploads/cms-media/4247664_53004_CEV_RB_FC-Web.png",
       "league": "LALIGA 2026-27",
-      "viewers": "10",
+      "viewers": "11",
       "viewers_type": "Waiting",
       "date": null,
       "time": null,
@@ -567,7 +567,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.041628"
+      "last_updated": "2026-10-13T15:44:40.078771"
     },
     {
       "match_id": "1246",
@@ -590,7 +590,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.042219"
+      "last_updated": "2026-10-13T15:44:40.079354"
     },
     {
       "match_id": "1245",
@@ -613,7 +613,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.042835"
+      "last_updated": "2026-10-13T15:44:40.079918"
     },
     {
       "match_id": "1243",
@@ -636,7 +636,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.043424"
+      "last_updated": "2026-10-13T15:44:40.080499"
     },
     {
       "match_id": "1102",
@@ -659,7 +659,7 @@
       "stream_url": null,
       "server_count": 0,
       "server_urls": [],
-      "last_updated": "2026-10-13T15:39:37.044029"
+      "last_updated": "2026-10-13T15:44:40.081069"
     }
   ]
 }
