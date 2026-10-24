@@ -5,7 +5,7 @@
    ========================================================= */
 
 const ALLSPORTS_API =
-  'https://all-sports.freedekholive-577.workers.dev/football.json';
+  'https://all-sports.dillzycreations.workers.dev/football.json';
 
 const SKELETON_COUNT = 6;
 const REFRESH_INTERVAL = 60000;
