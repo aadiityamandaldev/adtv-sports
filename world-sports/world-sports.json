@@ -1,7 +1,7 @@
 {
-  "timestamp": "2026-10-28T16:24:32.654816",
-  "total_matches": 4,
-  "live_count": 4,
+  "timestamp": "2026-10-28T21:11:42.418202",
+  "total_matches": 3,
+  "live_count": 3,
   "upcoming_count": 0,
   "completed_count": 0,
   "matches": [
@@ -16,7 +16,7 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://images.fancode.com/skillup-uploads/cms-media/AUS-vs-SA_Web-match-card.png",
       "league": "Australia tour of South Africa",
-      "viewers": "963",
+      "viewers": "036",
       "viewers_type": "Watching",
       "date": null,
       "time": null,
@@ -31,7 +31,7 @@
         "https://live.talkoraai.com/match/seg?t=XFQawEj-cK5eymK4_YNb-e9vvnnhrXQ9v5fzLftIOsSu92tvsTr0tELuZM4QZ3oE8M8FenlyiSv6XrhUPUPJo8Ho_sHZefAlsxFLF-fHnGcFhhadAMnTpHsI-17WJhQ24_JWPfRg3bs2guuV6NuIzd8pQ_Tmy0zSlxtraLD1ubIs2jO1zet7YEiA0_Lz3RfOrI9vx1Mog7qt_gLN6XBEp0_PVmH81gOXeFO4Imo-QYOi9QwNHtoQXr-GjrrNgKStrdmIIiNIYMUMhBPyZee6NV0YMlU",
         "https://fawa.duckdns.org/api/proxy?url=http%3A%2F%2F193.47.62.44%2Fhls%2FXAXAXAAX.m3u8&headers=%7B%22Referer%22%3A%22http%3A%2F%2Fwww.fawanews.sc%2F%22%7D"
       ],
-      "last_updated": "2026-10-28T13:52:18.194667"
+      "last_updated": "2026-10-28T19:09:07.651660"
     },
     {
       "match_id": "1306",
@@ -44,17 +44,21 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://www.fancode.com/skillup-uploads/cms-media/West-Indies-tour-of-Bangladesh-web-.jpg",
       "league": "Test Series 2026",
-      "viewers": "72",
+      "viewers": "142",
       "viewers_type": "Watching",
       "date": null,
       "time": null,
       "servers": null,
       "page_url": "/world-sports/player.html?id=1306",
       "match_url": "live/bangladesh-vs-west-indies-1st-test-day-1-1306",
-      "stream_url": null,
-      "server_count": 0,
-      "server_urls": [],
-      "last_updated": "2026-10-28T13:52:24.278480"
+      "stream_url": "https://live.talkoraai.com/match/hls?t=yhJvKrk_eooKCFO9CGOBfCIGA_AZ-37BMbZIqhbeulmWZbcPffFedrcYSDNO1_H_xDuBwKqZ0fnPBm08GyJ-n8fAjwNnqsMnITHyB8zMRHjzMBmX3CdbIp-179_uYUoS8LX30AaM1nBcaYS_XyxIi7goAyIoBZh9AlXjp0LY-iIuPxhN6PR3s5bvZhmVFYgaC7XgQHXfKI2aqelJKwAhjdf_Ofn4Tb8_iPm0awznR0FY7rMv8a7P7dWQJRJJne9ngPsU5HceTwZNa7KE",
+      "server_count": 3,
+      "server_urls": [
+        "https://live.talkoraai.com/match/hls?t=yhJvKrk_eooKCFO9CGOBfCIGA_AZ-37BMbZIqhbeulmWZbcPffFedrcYSDNO1_H_xDuBwKqZ0fnPBm08GyJ-n8fAjwNnqsMnITHyB8zMRHjzMBmX3CdbIp-179_uYUoS8LX30AaM1nBcaYS_XyxIi7goAyIoBZh9AlXjp0LY-iIuPxhN6PR3s5bvZhmVFYgaC7XgQHXfKI2aqelJKwAhjdf_Ofn4Tb8_iPm0awznR0FY7rMv8a7P7dWQJRJJne9ngPsU5HceTwZNa7KE",
+        "https://live.talkoraai.com/match/seg?t=qvR70zFXebE4QNgBwlwnaAxJY22rfL3tYCPVp6-yb4SavljuWF0V90EAHe3OaAEXiklHpiWfK3Z2iLk2ZWmRNIZoKwUyA20wa38GjgQ9IlePD9W8qE7HEMCa5CAeW6xQNg9yhjMJ-WNoicTT0s1BuQ1OPhvbJz6O2BJyvzaLNLrb2CozGXSEOwVqFMMYmnFqc4NBz6l33Yi3IZwdzPbqe5SchYKSCNwVEUUJyDpDKaOc70Knkx51D7z7H5BkYvAMrwHwvCFsDOfU2Vc4ifdQxTqB-3s",
+        "https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1/aefca6420f944a9482e117f315de535f/cenc.mpd"
+      ],
+      "last_updated": "2026-10-28T19:09:08.041112"
     },
     {
       "match_id": "1304",
@@ -67,44 +71,19 @@
       "runtime": "00h 00m 00s",
       "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg",
       "league": "India A tour of New Zealand, 2026",
-      "viewers": "467",
+      "viewers": "536",
       "viewers_type": "Watching",
       "date": null,
       "time": null,
       "servers": null,
       "page_url": "/world-sports/player.html?id=1304",
       "match_url": "live/new-zealand-a-vs-india-a-1st-unofficial-test-1304",
-      "stream_url": null,
-      "server_count": 0,
-      "server_urls": [],
-      "last_updated": "2026-10-28T13:52:39.290668"
-    },
-    {
-      "match_id": "1307",
-      "title": "India Women vs Zimbabwe Women 3RD ODI",
-      "teams": "India Women vs Zimbabwe Women 3RD ODI",
-      "sport": "cricket",
-      "sport_display": "Cricket",
-      "status": "live",
-      "status_display": "LIVE",
-      "runtime": "00h 00m 00s",
-      "thumbnail": "https://static.cricbuzz.com/a/img/v1/1080x608/i1/c1108532/live-india-women-vs-zimbabwe-women-3rd-odi.jpg",
-      "league": "Zimbabwe Women tour of India",
-      "viewers": "72",
-      "viewers_type": "Watching",
-      "date": null,
-      "time": null,
-      "servers": null,
-      "page_url": "/world-sports/player.html?id=1307",
-      "match_url": "live/india-women-vs-zimbabwe-women-3rd-odi-1307",
-      "stream_url": "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
-      "server_count": 3,
+      "stream_url": "https://alixbd.com/playlistconfig/channel/36.m3u8",
+      "server_count": 1,
       "server_urls": [
-        "https://tvsen7.aynaott.com/ssport2hd/index.m3u8",
-        "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8",
-        "https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV1080p.m3u8"
+        "https://alixbd.com/playlistconfig/channel/36.m3u8"
       ],
-      "last_updated": "2026-10-28T13:52:54.374094"
+      "last_updated": "2026-10-28T19:09:08.442623"
     }
   ]
 }
