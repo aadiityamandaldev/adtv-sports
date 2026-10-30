@@ -5,7 +5,7 @@
    ========================================================= */
 
 const CRICKET_API =
-  'https://all-sports.freedekholive-577.workers.dev/cricket.json';
+  'https://allrounderlive.in/api/cricket.json';
 
 const CRICKET_SKELETON_COUNT = 6;
 const CRICKET_REFRESH_INTERVAL = 60000;
