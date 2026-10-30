@@ -538,7 +538,7 @@
     "title": "LaLiga",
     "slug": "villarreal-vs-espanyol",
     "cat": "Live Events",
-    "status": "upcoming",
+    "status": "live",
     "event": {
       "name": "LaLiga",
       "category": "Football",
@@ -578,7 +578,7 @@
     "title": "Championship",
     "slug": "sheffield-utd-vs-wrexham",
     "cat": "Live Events",
-    "status": "upcoming",
+    "status": "live",
     "event": {
       "name": "Championship",
       "category": "Football",
