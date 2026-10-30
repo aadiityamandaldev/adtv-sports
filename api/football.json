@@ -378,7 +378,7 @@
     "title": "Ligue 1",
     "slug": "le-havre-vs-psg",
     "cat": "Live Events",
-    "status": "live",
+    "status": "ended",
     "event": {
       "name": "Ligue 1",
       "category": "Football",
@@ -430,7 +430,7 @@
     "title": "Ligue 1",
     "slug": "nice-vs-rennes",
     "cat": "Live Events",
-    "status": "live",
+    "status": "ended",
     "event": {
       "name": "Ligue 1",
       "category": "Football",
@@ -470,7 +470,7 @@
     "title": "Saudi Pro League",
     "slug": "al-shabab-vs-al-ahli",
     "cat": "Live Events",
-    "status": "live",
+    "status": "ended",
     "event": {
       "name": "Saudi Pro League",
       "category": "Football",
