@@ -374,46 +374,6 @@
     ]
   },
   {
-    "id": 5035,
-    "title": "Ligue 1",
-    "slug": "lille-vs-lens",
-    "cat": "Live Events",
-    "status": "ended",
-    "event": {
-      "name": "Ligue 1",
-      "category": "Football",
-      "teamA": "Lille",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
-      "teamB": "Lens",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
-      "logo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
-      "startTimeIST": "2026-10-31 01:35:00 IST",
-      "endTimeIST": "2026-10-31 03:55:00 IST",
-      "startTimeUTC": "2026/10/30 20:05:00 +0000",
-      "endTimeUTC": "2026/10/30 22:25:00 +0000"
-    },
-    "dashStreams": [
-      {
-        "title": "beIN SPORTS FHD",
-        "type": "dash",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8",
-        "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
-      },
-      {
-        "title": "CazéTV FHD",
-        "type": "dash",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
-        "key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
-      },
-      {
-        "title": "LOW QUALITY",
-        "type": "hls",
-        "url": "http://193.47.62.41/hls/3333AAAA.m3u8",
-        "key": null
-      }
-    ]
-  },
-  {
     "id": 5036,
     "title": "Liga Portugal Betclic",
     "slug": "casa-pia-vs-sporting",
@@ -564,6 +524,46 @@
       "endTimeUTC": "2026/10/31 08:20:00 +0000"
     },
     "dashStreams": []
+  },
+  {
+    "id": 5035,
+    "title": "Ligue 1",
+    "slug": "lille-vs-lens",
+    "cat": "Live Events",
+    "status": "ended",
+    "event": {
+      "name": "Ligue 1",
+      "category": "Football",
+      "teamA": "Lille",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1643/image",
+      "teamB": "Lens",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1648/image",
+      "logo": "http://api.sofascore.com/api/v1/unique-tournament/34/image/dark",
+      "startTimeIST": "2026-10-31 01:35:00 IST",
+      "endTimeIST": "2026-10-31 03:55:00 IST",
+      "startTimeUTC": "2026/10/30 20:05:00 +0000",
+      "endTimeUTC": "2026/10/30 22:25:00 +0000"
+    },
+    "dashStreams": [
+      {
+        "title": "beIN SPORTS FHD",
+        "type": "dash",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xuvcbrlxmb/out/v1/27aac1f9df984d65a9d4b95d234f4468/cenc.mpd?aws_sessionId=9cc7d647-12ea-46fa-8e5f-e801e6c74cc8",
+        "key": "74cbe15488783fab07ff8c702fabafcd:bb607803a49c2d6104f845e7886c971c"
+      },
+      {
+        "title": "CazéTV FHD",
+        "type": "dash",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
+        "key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+      },
+      {
+        "title": "LOW QUALITY",
+        "type": "hls",
+        "url": "http://193.47.62.41/hls/3333AAAA.m3u8",
+        "key": null
+      }
+    ]
   },
   {
     "id": 5033,
