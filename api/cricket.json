@@ -78,6 +78,12 @@
         "key": "290e09c837da78d5cd961978d390515c:b748836c71e6a4ca68ef5b5652db6247"
       },
       {
+        "title": "SONY SIX HD",
+        "type": "hls",
+        "url": "https://becarefulfal.bondsplive.online/441092/logosp.webp?&e=.m3u8",
+        "key": null
+      },
+      {
         "title": "TAPMAD 2 FHD",
         "type": "hls",
         "url": "https://tencent-cdn.tapmad.com/v1/01a1456f124d15fc600b1e3e9683d7/01a145990eba15fc60e91e1786b054/main.m3u8",
