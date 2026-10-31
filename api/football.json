@@ -622,6 +622,30 @@
         "type": "dash",
         "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd?",
         "key": "34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4"
+      },
+      {
+        "title": "USA NETWORK HD",
+        "type": "hls",
+        "url": "https://chatgpt.hereisman.net/playlist/58909/load-playlist-multi?&.m3u8",
+        "key": null
+      },
+      {
+        "title": "FAST SERVER",
+        "type": "hls",
+        "url": "https://live.vivo155.com/live/hd-en-1-4558656.m3u8?txSecret=4f2dbbe823b9cb8a4f58846eb91afaf4&txTime=6AE5F202",
+        "key": null
+      },
+      {
+        "title": "beIN ARABIC FHD",
+        "type": "hls",
+        "url": "https://live-cdn.ryazanslah3.space/hls/bein1.m3u8?",
+        "key": null
+      },
+      {
+        "title": "FAST SERVER+",
+        "type": "hls",
+        "url": "https://live2.jorvakstreamcache.com/live/channel1.m3u8?",
+        "key": null
       }
     ]
   },
