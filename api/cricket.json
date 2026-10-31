@@ -40,70 +40,6 @@
     ]
   },
   {
-    "id": 4963,
-    "title": "Women's Big Bash League",
-    "slug": "wbbl-vs-wbbl",
-    "cat": "Live Events",
-    "status": "live",
-    "event": {
-      "name": "Women's Big Bash League",
-      "category": "Cricket",
-      "teamA": "WBBL",
-      "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9OS4ikdL0U1wBewY6aIs6YK6KHWTHm7aa9O7wGaw4w&s=10",
-      "teamB": "WBBL",
-      "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9OS4ikdL0U1wBewY6aIs6YK6KHWTHm7aa9O7wGaw4w&s=10",
-      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9OS4ikdL0U1wBewY6aIs6YK6KHWTHm7aa9O7wGaw4w&s=10",
-      "startTimeIST": "2026-10-31 10:00:00 IST",
-      "endTimeIST": "2026-10-31 18:10:00 IST",
-      "startTimeUTC": "2026/10/31 04:30:00 +0000",
-      "endTimeUTC": "2026/10/31 12:40:00 +0000"
-    },
-    "dashStreams": [
-      {
-        "title": "WILLOW FHD",
-        "type": "dash",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
-        "key": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146"
-      },
-      {
-        "title": "WILLOW ALT",
-        "type": "dash",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
-        "key": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146"
-      },
-      {
-        "title": "EUROSPORTS FHD",
-        "type": "dash",
-        "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
-        "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
-      },
-      {
-        "title": "SKY CRICKET FHD",
-        "type": "hls",
-        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
-        "key": null
-      },
-      {
-        "title": "FANCODE (IND)",
-        "type": "hls",
-        "url": "https://dai-fancode.pages.dev/mumbai/4250391_english_hls_9173e82c8482158_1ta-di_h264/index.m3u8",
-        "key": null
-      },
-      {
-        "title": "FOX CRICKET HD",
-        "type": "hls",
-        "url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
-        "key": null
-      },
-      {
-        "title": "CRICBUZZ HD",
-        "type": "hls",
-        "url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
-        "key": null
-      }
-    ]
-  },
-  {
     "id": 4527,
     "title": "ODI Tri-series in Pakistan",
     "slug": "pak-vs-sl",
@@ -471,6 +407,70 @@
         "title": "FANCODE (IND)",
         "type": "hls",
         "url": "https://dai-fancode.pages.dev/mumbai/4250526_english_hls_d3c070eb3076082_1ta-di_h264/index.m3u8",
+        "key": null
+      }
+    ]
+  },
+  {
+    "id": 4963,
+    "title": "Women's Big Bash League",
+    "slug": "wbbl-vs-wbbl",
+    "cat": "Live Events",
+    "status": "ended",
+    "event": {
+      "name": "Women's Big Bash League",
+      "category": "Cricket",
+      "teamA": "WBBL",
+      "teamAFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9OS4ikdL0U1wBewY6aIs6YK6KHWTHm7aa9O7wGaw4w&s=10",
+      "teamB": "WBBL",
+      "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9OS4ikdL0U1wBewY6aIs6YK6KHWTHm7aa9O7wGaw4w&s=10",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH9OS4ikdL0U1wBewY6aIs6YK6KHWTHm7aa9O7wGaw4w&s=10",
+      "startTimeIST": "2026-10-31 10:00:00 IST",
+      "endTimeIST": "2026-10-31 18:10:00 IST",
+      "startTimeUTC": "2026/10/31 04:30:00 +0000",
+      "endTimeUTC": "2026/10/31 12:40:00 +0000"
+    },
+    "dashStreams": [
+      {
+        "title": "WILLOW FHD",
+        "type": "dash",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
+        "key": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146"
+      },
+      {
+        "title": "WILLOW ALT",
+        "type": "dash",
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/cie3oxklbt/out/v1/7e4172da4a0f4c4d9247c78ab34fc5bc/cenc.mpd",
+        "key": "82b8543f9ed421538363bacc50c6cc93:a1c7f34031ab2f04a33af7f2df053146"
+      },
+      {
+        "title": "EUROSPORTS FHD",
+        "type": "dash",
+        "url": "https://wbd.skandha.tv/EuroSport_HD/EuroSport_HD.isml/.mpd",
+        "key": "12ed56d780abcfebcd23aa27e4ac5015:6784567890abcfebcd23aa27e4ac2814"
+      },
+      {
+        "title": "SKY CRICKET FHD",
+        "type": "hls",
+        "url": "https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https",
+        "key": null
+      },
+      {
+        "title": "FANCODE (IND)",
+        "type": "hls",
+        "url": "https://dai-fancode.pages.dev/mumbai/4250391_english_hls_9173e82c8482158_1ta-di_h264/index.m3u8",
+        "key": null
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "type": "hls",
+        "url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+        "key": null
+      },
+      {
+        "title": "CRICBUZZ HD",
+        "type": "hls",
+        "url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
         "key": null
       }
     ]
