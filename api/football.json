@@ -584,7 +584,7 @@
     "title": "Premier League",
     "slug": "chelsea-vs-man-utd",
     "cat": "Live Events",
-    "status": "upcoming",
+    "status": "live",
     "event": {
       "name": "Premier League",
       "category": "Football",
@@ -630,7 +630,7 @@
     "title": "Championship",
     "slug": "stoke-vs-preston",
     "cat": "Live Events",
-    "status": "upcoming",
+    "status": "live",
     "event": {
       "name": "Championship",
       "category": "Football",
@@ -658,7 +658,7 @@
     "title": "Championship",
     "slug": "lincoln-vs-birmingham",
     "cat": "Live Events",
-    "status": "upcoming",
+    "status": "live",
     "event": {
       "name": "Championship",
       "category": "Football",
@@ -686,7 +686,7 @@
     "title": "Championship",
     "slug": "norwich-vs-watford",
     "cat": "Live Events",
-    "status": "upcoming",
+    "status": "live",
     "event": {
       "name": "Championship",
       "category": "Football",
