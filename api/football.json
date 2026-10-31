@@ -554,6 +554,12 @@
     },
     "dashStreams": [
       {
+        "title": "DAZN SPORTS FHD",
+        "type": "dash",
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/vszmn76lja/out/v1/4988d23eb50a4094bcc86a29f79423bb/cenc.mpd",
+        "key": "bc6da6cdc7db9750d39cbf9d36248ac1:456e4f020278cdb8a7f1d235b036199c"
+      },
+      {
         "title": "FAST SERVER",
         "type": "hls",
         "url": "https://live.vivo155.com/live/sd-1-4566598.m3u8?txSecret=9130911308d477081691a444dac91f94&txTime=6AE5EA37",
