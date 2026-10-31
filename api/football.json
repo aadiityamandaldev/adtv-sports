@@ -2458,40 +2458,6 @@
     ]
   },
   {
-    "id": 5002,
-    "title": "A-League Men",
-    "slug": "brisbane-roar-vs-auckland-fc",
-    "cat": "Live Events",
-    "status": "ended",
-    "event": {
-      "name": "A-League Men",
-      "category": "Football",
-      "teamA": "Brisbane Roar",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/5968/image",
-      "teamB": "Auckland FC",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/800224/image",
-      "logo": "http://api.sofascore.com/api/v1/unique-tournament/136/image/dark",
-      "startTimeIST": "2026-10-30 14:30:00 IST",
-      "endTimeIST": "2026-10-30 16:50:00 IST",
-      "startTimeUTC": "2026/10/30 09:00:00 +0000",
-      "endTimeUTC": "2026/10/30 11:20:00 +0000"
-    },
-    "dashStreams": [
-      {
-        "title": "TNT SPORTS 2",
-        "type": "dash",
-        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/puehlftk5j/out/v1/f7f0da1ee112481ca0024e6d4dd97f4a/cenc.mpd",
-        "key": "f3df7843080ae743bf865dc5fdf64c68:567c863bc12eb74788ea74888c042e1b"
-      },
-      {
-        "title": "SportDigital Fussball",
-        "type": "dash",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd",
-        "key": "0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8"
-      }
-    ]
-  },
-  {
     "id": 3926,
     "title": "NFL REDZONE",
     "slug": "nfl-vs-nfl",
