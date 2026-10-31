@@ -374,40 +374,6 @@
     ]
   },
   {
-    "id": 5056,
-    "title": "Liga MX, Apertura",
-    "slug": "puebla-vs-pumas",
-    "cat": "Live Events",
-    "status": "ended",
-    "event": {
-      "name": "Liga MX, Apertura",
-      "category": "Football",
-      "teamA": "Puebla",
-      "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
-      "teamB": "Pumas",
-      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
-      "logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
-      "startTimeIST": "2026-10-31 08:30:00 IST",
-      "endTimeIST": "2026-10-31 10:50:00 IST",
-      "startTimeUTC": "2026/10/31 03:00:00 +0000",
-      "endTimeUTC": "2026/10/31 05:20:00 +0000"
-    },
-    "dashStreams": [
-      {
-        "title": "FAST SERVER",
-        "type": "hls",
-        "url": "https://live.vivo155.com/live/sd-1-4553911.m3u8?txSecret=eedb0de34eb19636b20df5e04dfc1eac&txTime=6AD98A82",
-        "key": null
-      },
-      {
-        "title": "HD SERVER",
-        "type": "hls",
-        "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?",
-        "key": null
-      }
-    ]
-  },
-  {
     "id": 5037,
     "title": "A-League Men",
     "slug": "newcastle-jets-vs-wellington",
@@ -455,6 +421,40 @@
       "endTimeUTC": "2026/10/31 08:20:00 +0000"
     },
     "dashStreams": []
+  },
+  {
+    "id": 5056,
+    "title": "Liga MX, Apertura",
+    "slug": "puebla-vs-pumas",
+    "cat": "Live Events",
+    "status": "ended",
+    "event": {
+      "name": "Liga MX, Apertura",
+      "category": "Football",
+      "teamA": "Puebla",
+      "teamAFlag": "https://img.sofascore.com/api/v1/team/1941/image",
+      "teamB": "Pumas",
+      "teamBFlag": "https://img.sofascore.com/api/v1/team/1933/image",
+      "logo": "http://api.sofascore.com/api/v1/unique-tournament/11621/image/dark",
+      "startTimeIST": "2026-10-31 08:30:00 IST",
+      "endTimeIST": "2026-10-31 10:50:00 IST",
+      "startTimeUTC": "2026/10/31 03:00:00 +0000",
+      "endTimeUTC": "2026/10/31 05:20:00 +0000"
+    },
+    "dashStreams": [
+      {
+        "title": "FAST SERVER",
+        "type": "hls",
+        "url": "https://live.vivo155.com/live/sd-1-4553911.m3u8?txSecret=eedb0de34eb19636b20df5e04dfc1eac&txTime=6AD98A82",
+        "key": null
+      },
+      {
+        "title": "HD SERVER",
+        "type": "hls",
+        "url": "https://live2.jorvakstreamcache.com/live/channel4.m3u8?",
+        "key": null
+      }
+    ]
   },
   {
     "id": 5040,
