@@ -144,14 +144,14 @@
       {
         "title": "WILLOW FHD",
         "type": "dash",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "key": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48"
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+        "key": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909"
       },
       {
         "title": "WILLOW ALT",
         "type": "dash",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/5legsqgdxo/out/v1/68fc09a6171941268ebf5f9088d6010f/cenc.mpd",
-        "key": "079a2605723e910f53d9e2bfb8cb7b2e:d5383a5eedbcd90803e17aff07df4e48"
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/7v0gimhxxh/out/v1/efd1998387594d9ebd6051606f2a07a1/cenc.mpd",
+        "key": "3444af0dd264a1e280e7ac12410982e5:afa20d118776231ba80fc5c2b4370909"
       },
       {
         "title": "EUROSPORTS FHD",
@@ -169,6 +169,18 @@
         "title": "FANCODE (IND)",
         "type": "hls",
         "url": "https://dai-fancode.pages.dev/mumbai/4250389_english_hls_4f2248e81653597_1ta-di_h264/index.m3u8",
+        "key": null
+      },
+      {
+        "title": "FOX CRICKET HD",
+        "type": "hls",
+        "url": "https://baila-lentoo.pages.dev/all-sp/809389.m3u8",
+        "key": null
+      },
+      {
+        "title": "CRICBUZZ HD",
+        "type": "hls",
+        "url": "https://baila-lentoo.pages.dev/all-sp/809382.m3u8",
         "key": null
       }
     ]
