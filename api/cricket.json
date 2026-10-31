@@ -13,9 +13,9 @@
       "teamB": "NPL",
       "teamBFlag": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
       "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQAV3dcOxi7602i_xcqoTE6eoiGVCPJFo6uZwtDkDK-g&s=10",
-      "startTimeIST": "2026-10-31 12:15:00 IST",
+      "startTimeIST": "2026-10-31 16:45:00 IST",
       "endTimeIST": "2026-10-31 21:15:00 IST",
-      "startTimeUTC": "2026/10/31 06:45:00 +0000",
+      "startTimeUTC": "2026/10/31 11:15:00 +0000",
       "endTimeUTC": "2026/10/31 15:45:00 +0000"
     },
     "dashStreams": [
@@ -26,15 +26,15 @@
         "key": null
       },
       {
-        "title": "StarSports HD",
+        "title": "STAR SPORTS HD",
         "type": "hls",
-        "url": "https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8",
+        "url": "https://baila-lentoo.pages.dev/all-sp/373201.m3u8",
         "key": null
       },
       {
         "title": "FANCODE (IND)",
         "type": "hls",
-        "url": "https://dai-fancode.pages.dev/mumbai/4250360_english_hls_c17496c5a897481_1ta-di_h264/index.m3u8",
+        "url": "https://dai-fancode.pages.dev/mumbai/4250361_english_hls_e960221e3d18899_1ta-di_h264/index.m3u8",
         "key": null
       }
     ]
