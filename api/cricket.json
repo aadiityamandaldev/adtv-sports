@@ -254,8 +254,8 @@
       {
         "title": "WILLOW FHD",
         "type": "dash",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
-        "key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340"
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/n7ex9isjbb/out/v1/81f4a6fe53954a978d1aad56ceefa0bd/cenc.mpd",
+        "key": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4"
       },
       {
         "title": "SKY CRICKET FHD",
@@ -272,14 +272,14 @@
       {
         "title": "TAPMAD 2 FHD",
         "type": "hls",
-        "url": "https://tencent-cdn.tapmad.com/v1/01a145b15ce115fc600b1e3e9683db/01a145b24db11ea557841e1612cf4c/main.m3u8",
+        "url": "https://tencent-cdn.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8",
         "key": null
       },
       {
         "title": "WILLOW ALT",
         "type": "dash",
-        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/6qhfwsk4zo/out/v1/0a7bd0ff80a74315834174393f370523/cenc.mpd",
-        "key": "ba4284442c87f52ddeaa95c65d236805:56f0808d1f1fbfc0703b384081f1d340"
+        "url": "https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/n7ex9isjbb/out/v1/81f4a6fe53954a978d1aad56ceefa0bd/cenc.mpd",
+        "key": "a323fd2c6886dfea4831314fd63c4eb7:462c6dd2b56c26e958f5981fea25aef4"
       },
       {
         "title": "PTV SPORTS HD",
