@@ -424,25 +424,31 @@
       {
         "title": "PRIME VIDEO FHD",
         "type": "dash",
-        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/okrdtowgt0/out/v1/77961fd468194c5785b97b858f9af3fc/cenc.mpd",
-        "key": "bf2673b7fa403304187d06a465327574:3e6d16f6076eb37dfb2ee05916f63db6"
-      },
-      {
-        "title": "SD SERVER",
-        "type": "hls",
-        "url": "http://193.47.62.44/hls/RRRRQ.m3u8",
-        "key": null
+        "url": "https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/kaugpconjv/out/v1/dc6b6d0f4bf74cba84807c9de45683b6/cenc.mpd",
+        "key": "55bde6fbce567a3dccf69968f4b804f5:ced22b5107a842875a295c1261130063"
       },
       {
         "title": "SonyLiv (ENG)",
         "type": "hls",
-        "url": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch06ec/cricodi_3010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1793409020~acl=/*~id=f98953d136ec3ca62779b8bbd1dbb3e6-1793365803907~hmac=467df463b5c64da0e9e3ea757b6bcd82c4e1cca353e568cc5f19ccd1efd67a2e",
+        "url": "https://sonymtmnew.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a",
         "key": null
       },
       {
         "title": "SonyLiv (HIN)",
         "type": "hls",
-        "url": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_3010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1793409020~acl=/*~id=f98953d136ec3ca62779b8bbd1dbb3e6-1793365803907~hmac=467df463b5c64da0e9e3ea757b6bcd82c4e1cca353e568cc5f19ccd1efd67a2e",
+        "url": "https://sonymtmnew.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a",
+        "key": null
+      },
+      {
+        "title": "SonyLiv (TAM)",
+        "type": "hls",
+        "url": "https://sonymtmnew.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a",
+        "key": null
+      },
+      {
+        "title": "SonyLiv (MAL)",
+        "type": "hls",
+        "url": "https://sonymtmnew.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793465781~acl=/*~id=04748013220376876316667711953229~hmac=083e63e5054bd788fcfd8ab2febb68a26d214682d2671b977e30c3a641c2e27a",
         "key": null
       }
     ]
@@ -466,7 +472,14 @@
       "startTimeUTC": "2026/10/31 12:00:00 +0000",
       "endTimeUTC": "2026/10/31 14:20:00 +0000"
     },
-    "dashStreams": []
+    "dashStreams": [
+      {
+        "title": "SD SERVER",
+        "type": "hls",
+        "url": "http://193.47.62.44/hls/juuua.m3u8",
+        "key": null
+      }
+    ]
   },
   {
     "id": 5059,
@@ -487,7 +500,14 @@
       "startTimeUTC": "2026/10/31 12:00:00 +0000",
       "endTimeUTC": "2026/10/31 14:20:00 +0000"
     },
-    "dashStreams": []
+    "dashStreams": [
+      {
+        "title": "SD SERVER",
+        "type": "hls",
+        "url": "http://193.47.62.44/hls/crrraaaqqqq.m3u8",
+        "key": null
+      }
+    ]
   },
   {
     "id": 5060,
@@ -508,7 +528,14 @@
       "startTimeUTC": "2026/10/31 12:00:00 +0000",
       "endTimeUTC": "2026/10/31 14:20:00 +0000"
     },
-    "dashStreams": []
+    "dashStreams": [
+      {
+        "title": "SD SERVER",
+        "type": "hls",
+        "url": "http://193.47.62.44/hls/juuu.m3u8",
+        "key": null
+      }
+    ]
   },
   {
     "id": 5057,
@@ -550,7 +577,14 @@
       "startTimeUTC": "2026/10/31 12:30:00 +0000",
       "endTimeUTC": "2026/10/31 14:50:00 +0000"
     },
-    "dashStreams": []
+    "dashStreams": [
+      {
+        "title": "beIN ENGLISH FHD",
+        "type": "dash",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd",
+        "key": "7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e"
+      }
+    ]
   },
   {
     "id": 5062,
@@ -571,7 +605,14 @@
       "startTimeUTC": "2026/10/31 12:30:00 +0000",
       "endTimeUTC": "2026/10/31 14:50:00 +0000"
     },
-    "dashStreams": []
+    "dashStreams": [
+      {
+        "title": "CBS SPORTS FHD",
+        "type": "dash",
+        "url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd",
+        "key": "d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861"
+      }
+    ]
   },
   {
     "id": 5063,
